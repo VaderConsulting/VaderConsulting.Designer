@@ -1,6 +1,6 @@
 # VaderConsulting.Designer
 
-C# .NET 4.6 WinForms MDI Designer with a left palette of Drawing, Server, Disk, Windows Service, Application, Database, Agreement. `Program.Main` runs `frmParent` (window title Designer), an MDI container with File/Edit/View/Tools/Windows/Help menus from the Visual Studio MDI parent template. The Drawing button opens empty `frmDrawing` as a maximised MDI child; the other palette buttons have tooltips but no click handlers yet. Open and Save As show file dialogs without loading or writing content; cut, copy, and paste handlers are empty.
+C#.NET 4.6 WinForms MDI Designer with a left palette of Drawing, Server, Disk, Windows Service, Application, Database, Agreement. `Program.Main` runs `frmParent` (window title Designer), an MDI container with File/Edit/View/Tools/Windows/Help menus from the Visual Studio MDI parent template. The Drawing button opens empty `frmDrawing` as a maximised MDI child; the other palette buttons have tooltips but no click handlers yet. Open and Save As show file dialogs without loading or writing content; cut, copy, and paste handlers are empty.
 
 **Source last updated:** 2015-10-05 · **Language:** C# · **Target:** .NET Framework 4.6 · **Output:** WinForms executable (`WinExe`)
 
